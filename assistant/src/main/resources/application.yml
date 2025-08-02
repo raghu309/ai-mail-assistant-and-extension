@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: assistant
+
+gemini:
+  api:
+    url: ${GEMINI_URL}
+    key: ${GEMINI_KEY}
